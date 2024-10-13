@@ -14,12 +14,12 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/andrest04">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=andrest04&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrest04&layout=compact&langs_count=7&theme=one_dark_pro"/>
-  </a>
-</div>
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrest04&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/zuramai">
+  <img align="center" width=356px src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrest04&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
     
 ### Contact
 
