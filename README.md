@@ -5,27 +5,24 @@
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Vue" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-                
-  
+  <img alt="Js"  height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="VS"  height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Vue" height="35" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 </div><br>
 
 ### GitHub Stats
 
-<a href="https://github.com/zuramai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrest04&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/zuramai">
-  <img align="center" width=356px src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrest04&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=andrest04&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img width=356px src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrest04&layout=compact&theme=dark#gh-dark-mode-only&langs_count=8" />
+</div>
+
     
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/andres-torres-garcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/andres-torres-garcia/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
