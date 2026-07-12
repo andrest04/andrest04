@@ -69,15 +69,6 @@ Recreational space booking platform.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrest04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrest04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
