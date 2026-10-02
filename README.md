@@ -11,7 +11,7 @@ Currently, I also work as **Tech Lead** in an educational platform project.
 
 I'm passionate about **Clean Architecture**, **Domain-Driven Design (DDD)**, and building scalable, maintainable software.
 
-- 🎓 Software Engineering Student @ UPC (8th cycle)
+- 🎓 Software Engineering Student @ UPC (9th cycle)
 - 💼 Full-Stack Developer
 - 🏗️ Tech Lead in an educational platform project
 - 🚀 Focused on Clean Architecture, DDD, and good practices
